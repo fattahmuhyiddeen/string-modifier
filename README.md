@@ -1,6 +1,8 @@
 ## Environment
 This project is built using Laravel. Make sure you have proper enviroment for Laravel. Make sure `PHP` and `Composer` is installed.
 
+`.env` file and database is not needed.
+
 ### Screen Recording
 
 ![ezgif-3-eb71ab6c77a8](https://user-images.githubusercontent.com/24792201/85596449-4fd85900-b67c-11ea-86c1-dc164c3834df.gif)
