@@ -1,5 +1,5 @@
 ## Environment
-This project is built using Laravel. Make sure you have proper enviroment for Laravel
+This project is built using Laravel. Make sure you have proper enviroment for Laravel. Make sure `PHP` and `Composer` is installed.
 
 ### Screen Recording
 
