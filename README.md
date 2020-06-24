@@ -14,3 +14,11 @@ Follow this steps after cloning and go into the cloned directory through CLI
 1. `composer update`
 1. `php artisan string:modifier "your own text here"`. Output will be shown in the console and a CSV is also generated in root directory
 1. `php artisan test` to run the test
+
+
+
+### Main Files
+Main files that contain the solutions are in these files
+1. `app/Services/ModifierService.php`
+1. `app/Console/Commands/Modifier.php`
+1. `tests/Unit/ModifierTest.php`
